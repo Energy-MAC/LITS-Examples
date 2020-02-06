@@ -255,8 +255,8 @@ version = "0.3.1"
 
 [[LITS]]
 deps = ["DiffEqBase", "ForwardDiff", "InfrastructureSystems", "LinearAlgebra", "NLsolve", "PowerSystems", "SparseArrays", "Sundials"]
-git-tree-sha1 = "86b0a2904d905f854a79647007aa6bdde1c366ac"
-repo-rev = "rh/docs_update"
+git-tree-sha1 = "6241c5363d31868ce0f67cd15e50cbd50209256c"
+repo-rev = "dev0-3"
 repo-url = "https://github.com/Energy-MAC/LITS.jl.git"
 uuid = "86b0dc02-7903-11e9-325f-f195ca7e6c1a"
 version = "0.3.0"
