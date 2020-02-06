@@ -1,4 +1,6 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Energy-MAC/LITS-Examples/master)
 
 # LITS-Examples
-Examples of modeling using https://energy-mac.github.io/LITS.jl/latest/
+Examples of modeling using https://energy-mac.github.io/LITS.jl/latest/.
+
+We created a binder to use the jupyter-notebooks examples online.
