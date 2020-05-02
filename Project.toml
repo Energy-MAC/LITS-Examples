@@ -1,5 +1,6 @@
 [deps]
 LITS = "86b0dc02-7903-11e9-325f-f195ca7e6c1a"
+NLsolve = "2774e3e8-f4cf-5e23-947b-6d7e65073b56"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 PowerSystems = "bcd98974-b02a-5e2f-9ee0-a103f5c450dd"
 Sundials = "c3572dad-4567-51f8-b174-8c6c989267f4"
