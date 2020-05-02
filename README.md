@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Energy-MAC/LITS-Examples/121d5b50bfcf556b062644cb8a5e6781ccd2475d)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Energy-MAC/LITS-Examples/master)
 
 # LITS Examples
 Examples of modeling using https://energy-mac.github.io/LITS.jl/latest/. 
