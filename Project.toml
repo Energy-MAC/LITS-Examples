@@ -6,4 +6,4 @@ PowerSystems = "bcd98974-b02a-5e2f-9ee0-a103f5c450dd"
 Sundials = "c3572dad-4567-51f8-b174-8c6c989267f4"
 
 [compat]
-LITS = "v0.3.5"
+LITS = "v0.4.0"
