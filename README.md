@@ -3,6 +3,6 @@
 # LITS Examples
 Examples of modeling using https://energy-mac.github.io/LITS.jl/latest/. 
 
-The current version of the Examples uses LITS 0.3.5
+The current version of the Examples uses LITS 0.4.0
 
 We created a binder to use the jupyter-notebooks examples online.
